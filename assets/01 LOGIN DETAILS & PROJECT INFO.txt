@@ -1,0 +1,26 @@
+**Database Name: carrentalp**
+
+**Developed by Ajay Gangwar**
+
+**Recommended PHP Version 5.6.3 and 7.4.12**
+
+
+**Customer Login Details**
+1.
+Username: ajay2001
+Password: 1234
+2. 
+Username: akhil123
+Password: 1234
+
+
+
+
+**Employee Login Details**
+1.
+Username: ajay2001
+Password: 1234
+
+2.
+Username: aditya123
+Password: 1234
